@@ -132,3 +132,5 @@ The Uber Data Analysis project follows a structured data pipeline designed to ha
       - **Average Amount by Payment Type:** Breaks down average fares by payment methods like Credit Card, Cash, No Charge, and Dispute, offering insights into payment preferences and patterns.
      
         ![Visualization](https://github.com/shantanup7/Uber-Data-Analysis/blob/main/Images/Uber_Dashboard.jpg)
+
+    - Dashboard Link: https://lookerstudio.google.com/s/qm6cfSPdnR8
